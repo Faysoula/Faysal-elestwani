@@ -1,11 +1,5 @@
-# 𝒢𝓇𝑒𝑒𝓉𝒾𝓃𝑔𝓈, 𝒯𝓇𝒶𝓋𝑒𝓁𝑒𝓇! 🧙‍♂️
-
-𝒴𝑜𝓊 𝒽𝒶𝓋𝑒 𝒹𝒾𝓈𝒸𝑜𝓋𝑒𝓇𝑒𝒹 𝓂𝓎 𝒢𝒾𝓉𝐻𝓊𝒷 𝓈𝓉𝓇𝑜𝓃𝑔𝒽𝑜𝓁𝒹. 𝐼𝒻 𝓎𝑜𝓊𝓇 𝒽𝑒𝒶𝓇𝓉 𝒾𝓈 𝓉𝓇𝓊𝑒 𝒶𝓃𝒹 𝓎𝑜𝓊 𝓈𝑒𝑒𝓀 𝓌𝒾𝓈𝒹𝑜𝓂, 𝓎𝑜𝓊 𝓂𝒶𝓎 𝓅𝒶𝓈𝓈.
-
----
-
 <p style="font-family: 'Georgia', serif;">
-<b>Hey there!</b> <br>
+<b>Hey there! I'm Faysal</b> <br>
 I'm a senior Computer Science student with a passion for turning complex concepts into fun experiences. As the president of UOB Devs, I'm all about bringing our tech community together to create something awesome. Right now, I'm deep into the world of advanced algorithms, mastering React, and having a blast building games with the Gadot engine. Whether it's solving tricky problems or crafting cool games, I’m here to make it happen. Let’s create something amazing! 🎮👨‍💻🚀
 </p>
 
